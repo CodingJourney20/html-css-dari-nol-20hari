@@ -1,0 +1,38 @@
+PENGENALAN HTML
+==============
+
+HTML (HyperText Markup Language) adalah bahasa markup standar yang digunakan untuk membuat halaman web. HTML menggambarkan struktur dari sebuah halaman web menggunakan serangkaian elemen. Elemen HTML memberi tahu browser bagaimana menampilkan konten.
+
+Struktur dasar HTML:
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Judul Halaman</title>
+    </head>
+    <body>
+        <h1>Ini adalah heading</h1>
+        <p>Ini adalah paragraf.</p>
+    </body>
+</html>
+
+Penjelasan struktur:
+1. <!DOCTYPE html> - Mendeklarasikan bahwa dokumen ini adalah HTML5
+2. <html> - Elemen root dari halaman HTML
+3. <head> - Berisi informasi meta tentang dokumen
+4. <title> - Menentukan judul untuk halaman web
+5. <body> - Berisi konten halaman yang terlihat
+
+Elemen HTML:
+- Elemen HTML didefinisikan dengan tag pembuka dan penutup
+- Tag pembuka: <namatag>
+- Tag penutup: </namatag>
+- Contoh: <p>Ini paragraf</p>
+
+Tag HTML dasar:
+- <h1> sampai <h6> - Untuk heading
+- <p> - Untuk paragraf
+- <br> - Untuk baris baru
+- <div> - Untuk membuat divisi/section
+- <a> - Untuk membuat link
+- <img> - Untuk menampilkan gambar

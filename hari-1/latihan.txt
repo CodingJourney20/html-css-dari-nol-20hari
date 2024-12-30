@@ -1,0 +1,7 @@
+Latihan mandiri
+
+1. Tambahkan element <h2> dengan judul "Saya suka belajar HTML".
+2. Tambahkan element <p> dengan isi "Belajar HTML itu menyenangkan".
+3. Tambahkan element <h3> dengan judul "Mari belajar bersama!".
+4. Tambahkan element <p> dengan isi "Semangat!".
+5. Tambahkan gambar berikut ke dalam dokumen HTML: https://via.placeholder.com/151
