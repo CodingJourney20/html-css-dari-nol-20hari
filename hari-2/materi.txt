@@ -1,0 +1,81 @@
+HARI 2: ELEMEN DASAR HTML
+==============
+
+1. ELEMEN TEKS
+---------------
+Elemen teks adalah blok pembangun dasar dalam HTML yang digunakan untuk menampilkan konten textual.
+
+a) Heading (<h1> - <h6>)
+- <h1> digunakan untuk judul utama
+- <h2> untuk sub judul
+- Semakin besar angka, semakin kecil ukuran heading
+- Contoh: 
+    <h1>Judul Utama</h1>
+    <h2>Sub Judul</h2>
+
+b) Paragraf (<p>)
+- Digunakan untuk mengelompokkan teks menjadi paragraf
+- Contoh: <p>Ini adalah sebuah paragraf.</p>
+
+c) Penekanan Teks
+- <strong> untuk teks tebal/penting
+- <em> untuk teks miring/emphasis
+- Contoh: <strong>Teks Penting</strong>, <em>Teks Miring</em>
+
+2. ELEMEN DAFTAR
+----------------
+HTML menyediakan dua jenis daftar utama:
+
+a) Unordered List (<ul>)
+- Daftar tidak berurutan menggunakan bullet points
+- Setiap item menggunakan tag <li>
+- Contoh:
+    <ul>
+        <li>Item 1</li>
+        <li>Item 2</li>
+    </ul>
+
+b) Ordered List (<ol>)
+- Daftar berurutan menggunakan nomor
+- Setiap item menggunakan tag <li>
+- Contoh:
+    <ol>
+        <li>Langkah pertama</li>
+        <li>Langkah kedua</li>
+    </ol>
+
+3. ELEMEN TABEL
+---------------
+Tabel digunakan untuk menampilkan data dalam format baris dan kolom.
+
+Struktur dasar tabel:
+- <table> : Mendefinisikan sebuah tabel
+- <tr> : Table Row (baris)
+- <th> : Table Header (header kolom)
+- <td> : Table Data (sel data)
+
+Contoh tabel:
+<table>
+    <tr>
+        <th>Header 1</th>
+        <th>Header 2</th>
+    </tr>
+    <tr>
+        <td>Data 1</td>
+        <td>Data 2</td>
+    </tr>
+</table>
+
+LATIHAN PRAKTIK:
+---------------
+1. Buat sebuah halaman HTML yang berisi:
+     - Judul utama menggunakan <h1>
+     - Beberapa paragraf teks
+     - Daftar berurutan dan tidak berurutan
+     - Tabel sederhana dengan minimal 2 baris dan 2 kolom
+
+2. Pastikan menggunakan:
+     - Minimal 3 level heading berbeda
+     - Kombinasi teks tebal dan miring
+     - Minimal 3 item dalam setiap daftar
+     - Header tabel yang jelas

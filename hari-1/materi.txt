@@ -1,4 +1,4 @@
-PENGENALAN HTML
+Hari 1: PENGENALAN HTML
 ==============
 
 HTML (HyperText Markup Language) adalah bahasa markup standar yang digunakan untuk membuat halaman web. HTML menggambarkan struktur dari sebuah halaman web menggunakan serangkaian elemen. Elemen HTML memberi tahu browser bagaimana menampilkan konten.

@@ -1,0 +1,25 @@
+Latihan:
+
+1. Buat dokumen HTML dengan judul utama <h1> "Belajar Elemen HTML"
+2. Tambahkan tiga paragraf dengan teks berikut:
+    - Paragraf 1: "HTML adalah bahasa markup yang digunakan untuk membuat halaman web"
+    - Paragraf 2: "Saya sedang belajar <strong>elemen dasar HTML</strong>"
+    - Paragraf 3: "Belajar HTML itu <em>sangat menyenangkan</em>"
+
+3. Buat daftar tidak berurutan (unordered list) dengan judul <h2> "Manfaat Belajar HTML":
+    - Bisa membuat website
+    - Memahami struktur web
+    - Dasar pemrograman web
+
+4. Buat daftar berurutan (ordered list) dengan judul <h3> "Langkah Belajar HTML":
+    - Pelajari struktur dasar
+    - Pahami elemen HTML
+    - Latihan membuat halaman
+    - Buat proyek sederhana
+
+5. Buat tabel dengan 3 baris dan 3 kolom yang berisi:
+    Header: Nama | Usia | Hobi
+    Data 1: Budi | 20 | Coding
+    Data 2: Ana | 22 | Design
+
+Selamat mengerjakan!
